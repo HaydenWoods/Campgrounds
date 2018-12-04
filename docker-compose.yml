@@ -1,0 +1,26 @@
+version: "3"
+services:
+  frontend:
+    build: ./src/frontend
+    command: npm start
+    volumes: 
+      - ./src/frontend:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - 3000:3000
+    env_file:
+      - ./src/frontend/.env
+  backend:
+    build: ./src/backend
+    command: nodemon server.js
+    volumes: 
+      - ./src/backend:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - 3001:3001
+    env_file:
+      - ./src/backend/.env
+  db:
+    image: postgres:9.6.2-alpine
+    env_file:
+      - ./src/db/.env

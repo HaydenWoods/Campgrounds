@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"width",
+				"widthDif"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sideb",
+				"sidebar-width"
+			],
+			[
+				"sec",
+				"secondary-accent-color"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"border-rad",
+				"border-radius\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"night",
+				"nightMode"
+			],
+			[
+				"set",
+				"setFilter"
+			],
+			[
+				"handle",
+				"handleFilters"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"fil",
+				"filterStatus"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"filter",
+				"filtername"
+			],
+			[
+				"adv",
+				"advancedSearch"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"search",
+				"search-results"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"advanc",
+				"advanced-menu"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"pay",
+				"payloadName"
+			],
+			[
+				"hex",
+				"hexToRgbA"
+			],
+			[
+				"land",
+				"landIntent"
+			],
+			[
+				"lan",
+				"landSuccess"
+			],
+			[
+				"youtube",
+				"youtubeLogo"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"rocke",
+				"rocketName"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"pal",
+				"payloadMass"
+			],
+			[
+				"lad",
+				"landSuccess"
+			],
+			[
+				"payl",
+				"payloadMass"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"fle",
+				"flex-start\talign-content"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"flx",
+				"flex-direction\tproperty"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"get",
+				"getSum"
+			],
+			[
+				"rot",
+				"rotateZ()\ttransform"
+			],
+			[
+				"text",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"inn",
+				"innerClass"
+			],
+			[
+				"player",
+				"playerItem"
+			],
+			[
+				"temp",
+				"tempUsers"
+			],
+			[
+				"is",
+				"isPlaying"
+			],
+			[
+				"menu",
+				"menu-container"
+			],
+			[
+				"room",
+				"roomID"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"ac",
+				"accent-color"
+			],
+			[
+				"ine",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"Arithmetic"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haydenwoods/Desktop/Campgrounds",
+		"/Users/haydenwoods/Desktop/Campgrounds/src",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend"
+	],
+	"file_history":
+	[
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/Dockerfile",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/server.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/docker-compose.yml",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/Dockerfile",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/index.html",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/package-lock.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/package.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/db/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/index.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/src/app.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/favicon.ico",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/manifest.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/semantic.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/common.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/Dockerfile",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/todos/model.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/todos/routes.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/index.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/server.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/db.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Dockerfile",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/campground.sublime-project",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/styles/index.css",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/components/header.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/components/index.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/index.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/public/index.html",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/package.json",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/app.js",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/index.js",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/styles/index.css",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/public/index.html",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/App.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/app.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/public/JS/main.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/public/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/client/index.html",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/JS/main.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/index.html",
+		"/Users/haydenwoods/Documents/Development/Websites/BeforeAfterTest/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/night.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/FlightList.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/index.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/index.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/Main.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/FlightPage.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/public/index.html",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/Flight.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/Header.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/Header.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/FlightPage.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/Flight.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/App.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/app.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/components/FlightPage.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/components/Main.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/public/index.html",
+		"/Users/haydenwoods/Documents/Development/React/spacex/node_modules/react-scripts/config/webpack.config.dev.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/node_modules/webpack/bin/webpack.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/index.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/components/FlightList.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/spacex.sublime-project",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/components/main.css",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/App.css",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/Main.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/index.css",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/components/Flight.css",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/serviceWorker.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/App.test.js",
+		"/Users/haydenwoods/Documents/Development/React/spacex/src/logo.svg",
+		"/Users/haydenwoods/Documents/Development/Websites/AIT-T12b/node_modules/coa/lib/cmd.js",
+		"/Users/haydenwoods/Documents/Development/Electron/Test/simple-samples/activity-monitor/app.js",
+		"/Users/haydenwoods/Documents/Development/Electron/Test/simple-samples/activity-monitor/package.json",
+		"/Users/haydenwoods/Documents/Development/Electron/Average/package.json",
+		"/Users/haydenwoods/Documents/Development/Electron/Test/simple-samples/activity-monitor/index.html",
+		"/Users/haydenwoods/Documents/Development/Electron/Test/simple-samples/activity-monitor/window.js",
+		"/Users/haydenwoods/Documents/Development/Electron/Test/simple-samples/activity-monitor/styles.css",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Mafia/public/js/client.js",
+		"/Users/haydenwoods/Documents/Development/NodeJS/CTF/app.js",
+		"/Users/haydenwoods/Documents/Development/NodeJS/CTF/ctf.sublime-project",
+		"/Users/haydenwoods/Documents/Development/Python/known.txt",
+		"/Users/haydenwoods/Documents/Development/Python/knownPlaintext.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"semantic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "campgrounds.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
