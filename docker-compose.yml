@@ -22,5 +22,7 @@ services:
       - ./src/backend/.env
   db:
     image: postgres:9.6.2-alpine
+    ports: 
+      - 3002:5432
     env_file:
       - ./src/db/.env

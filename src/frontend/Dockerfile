@@ -4,7 +4,7 @@ RUN mkdir /usr/app
 WORKDIR /usr/app
 
 COPY package.json .
-RUN npm install
+RUN npm install --quiet
 
 COPY . .
 
